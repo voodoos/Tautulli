@@ -225,7 +225,7 @@ class DataFactory(object):
                    'user': "anon", #item['user'],
                    'friendly_name': "anon", #item['friendly_name'],
                    'platform': "anon", #platform,
-                   'player': item['player'],
+                   'player': "anon", #item['player'],
                    'ip_address': 0, #item['ip_address'],
                    'media_type': item['media_type'],
                    'rating_key': item['rating_key'],
